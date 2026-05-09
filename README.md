@@ -1,4 +1,3 @@
-
 <div align="center">
 <img src="https://telegra.ph/file/29c54a1a020f0a2e4f216.png" align="center" width="80%">
 
@@ -16,27 +15,14 @@
 <a href="mailto:AmineSoukara@gmail.com" alt="Gmail"><img height="33" src="https://raw.githubusercontent.com/AmineSoukara/AmineSoukara/master/img/gmail.ico"></a>
 </p>
 
+<hr> <h3 align="center">Support My Work :</h3>
 
-<hr> <h3 align="center">Languages & Tools :</h3>
-
-> As a student, i always want to study more and more. Don't hesitate to give me your knowledge!
+> If you find my projects helpful, consider supporting me!
 
 <p>
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://www.android.com/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="android" width="40" height="40"/> </a>
-<a href="https://.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="Visual Studio Code" width="40p" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="37" height="37"/> </a>
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="37" height="37"/> </a>
-<a href="https://css.com" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://php.com/" target="_blank"> <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg" alt="php" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-</p> 
+<a href="https://github.com/sponsors/AmineSoukara" target="_blank"><img src="https://img.shields.io/badge/Sponsor_Me-GitHub-%23ea4aaa?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Sponsor"/></a>
+<a href="https://buymeacoffee.com/damiensoukara" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me A Coffee"/></a>
+</p>
 
 </div>
 
@@ -70,5 +56,4 @@
 <img width="80%" src="https://telegra.ph/file/29c54a1a020f0a2e4f216.png" align="center" width="80%">
 
 > Damien Soukara
-
-
+</div>
